@@ -1,5 +1,9 @@
 # eyes-movement
-This project builds two eyes with eyeball that move with the mouse scroll.
+Project Description: This project builds two eyes with eyeball that move all around with the mouse scroll. Just move your mouse pad in any direction and the eyeball will follow. 
+
+How to run: To see it in action, download the html, css, and javascript files provided, save these to a folder in your system then drag the html file into a browser. Converly you can branch the code to an on-going project.
+
+Roadmap of future improvements: In the future, I would like to play around with different speeds of the eyeball movement, and with potential automation of movement so that the eyes move on its own. 
 
 License information:
 MIT License
